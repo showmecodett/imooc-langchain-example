@@ -44,7 +44,11 @@ git init
 
 # 修改git的用户名称
 git config user.name "showmecodett"
+git config user.email "showmecodett@gmail.com"
 
 # rename branch
 git branch -m main
+
+# 使用 HTTPS 和 personal access token 参与多个帐户
+https://docs.github.com/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-personal-account/managing-multiple-accounts#%E4%BD%BF%E7%94%A8-https-%E5%92%8C-personal-access-token-%E5%8F%82%E4%B8%8E%E5%A4%9A%E4%B8%AA%E5%B8%90%E6%88%B7
 ```
